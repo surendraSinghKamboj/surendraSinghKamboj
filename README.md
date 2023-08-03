@@ -9,9 +9,8 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 **Here are some of my projects:**
 
 * [My personal website](https://surendrasinghkamboj.github.io/)
-* [A project management app](https://github.com/surendrasinghkamboj/project-management-app)
-* [A blog](https://surendrasinghkamboj.github.io/blog/)
 
+  
 **Here are some of my skills:**
 
 * React.js
@@ -28,11 +27,9 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 * Web development
 * Programming
 * Technology
-* Music
 * Reading
 
 **Contact me:**
 
 * [LinkedIn](https://www.linkedin.com/in/surendrasinghkamboj/)
-* [Twitter](https://twitter.com/surendrask)
-* [Email](mailto:surendrasinghkamboj@gmail.com)
+* [Email](mailto:surendra.singh.kamboj@hotmail.com)
