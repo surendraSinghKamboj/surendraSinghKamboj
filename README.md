@@ -8,7 +8,7 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 
 **Here are some of my projects:**
 
-* [My portfolio](https://surendrasinghkamboj.vercel.app/)
+* [My portfolio](https://surendra.cloud/)
 
   
 **Here are some of my skills:**
