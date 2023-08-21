@@ -33,3 +33,5 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 
 * [LinkedIn](https://www.linkedin.com/in/surendrasinghkamboj/)
 * [Email](mailto:surendra.singh.kamboj@hotmail.com)
+
+ ![](https://komarev.com/ghpvc/?surendraSinghKamboj)
