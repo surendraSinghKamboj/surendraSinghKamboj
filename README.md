@@ -36,11 +36,9 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 
  <div align="center">
   <pre>
-***********************
-*     Visit Counter   *
-*                     *
-* ![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)  *
-***********************
+  <p>Visit Counter</p>  
+![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
+  
   </pre>
 </div>
 
