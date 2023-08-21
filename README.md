@@ -37,8 +37,6 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
  <div align="center">
   <pre>
   <p>Visit Counter</p>  
-![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
-  
   </pre>
 </div>
-
+![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
