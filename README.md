@@ -40,5 +40,7 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendraSinghKamboj)](https://github.com/surendraSinghKamboj/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
