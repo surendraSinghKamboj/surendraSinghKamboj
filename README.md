@@ -36,6 +36,4 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 * [Email](mailto:surendra.singh.kamboj@hotmail.com)
 
 
-**Visitor Count:**
-
-![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
