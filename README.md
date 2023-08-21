@@ -1,6 +1,7 @@
-
+<center>
+  
 # Surendra Singh Kamboj
-
+</center>
 I'm a full stack web developer with skills in React.js, Next.js, Node.js, TailwindCSS, JavaScript, and Sass.
 
 * I'm passionate about building user-friendly and scalable web applications.
