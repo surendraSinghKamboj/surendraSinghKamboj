@@ -37,10 +37,19 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 * [Email](mailto:surendra.singh.kamboj@hotmail.com)
 
 
+  <p align="center">
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=surendraSinghKamboj&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=surendraSinghKamboj&show_icons=true&locale=en&theme=dark"/>
+</p>
+
+<p align="center">
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendraSinghKamboj)](https://github.com/surendraSinghKamboj/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendraSinghKamboj&layout=donut-vertical)](https://github.com/surendraSinghKamboj/github-readme-stats)
+</p>
 
 
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
