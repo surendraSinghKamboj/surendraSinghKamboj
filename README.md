@@ -1,5 +1,7 @@
+<center>
+  
 # Surendra Singh Kamboj
-
+</center>
 I'm a full stack web developer with skills in React.js, Next.js, Node.js, TailwindCSS, JavaScript, and Sass.
 
 * I'm passionate about building user-friendly and scalable web applications.
@@ -8,7 +10,7 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 
 **Here are some of my projects:**
 
-* [My portfolio](https://surendrasinghkamboj.vercel.app/)
+* [My portfolio](https://surendra.cloud/)
 
   
 **Here are some of my skills:**
@@ -33,3 +35,21 @@ I'm a full stack web developer with skills in React.js, Next.js, Node.js, Tailwi
 
 * [LinkedIn](https://www.linkedin.com/in/surendrasinghkamboj/)
 * [Email](mailto:surendra.singh.kamboj@hotmail.com)
+
+
+  <p align="center">
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=surendraSinghKamboj&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=surendraSinghKamboj&show_icons=true&locale=en&theme=dark"/>
+</p>
+
+<p align="center">
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendraSinghKamboj)](https://github.com/surendraSinghKamboj/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendraSinghKamboj&layout=donut-vertical)](https://github.com/surendraSinghKamboj/github-readme-stats)
+</p>
+
+
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/surendraSinghKamboj/count.svg)
