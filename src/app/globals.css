@@ -2,8 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  scroll-timeline-name: --myScroller;
+
+  /* Chromium supports the new x/y syntax */
+  scroll-timeline-axis: y;
+  /* Firefox still supports the old horizontal/vertical syntax */
+  scroll-timeline-axis: vertical;
+}
+
 * {
   scroll-behavior: smooth;
+  scroll-margin-block: 0;
 }
 
 /* width */
@@ -13,7 +23,7 @@
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #C62368;
+  background: #c62368;
 }
 
 /* Handle */
@@ -25,4 +35,44 @@
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #03d2f7;
+}
+
+.box {
+  width: 100px;
+  height: 5px;
+  background: linear-gradient(
+    to right,
+    rgb(128, 0, 255),
+    rgb(253, 1, 253),
+    rgb(255, 0, 0)
+  );
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+
+.animation {
+  animation: rotate-appear;
+  animation-timeline: --myScroller;
+  animation-duration: 1ms; /* Firefox requires this to apply the animation */
+}
+
+@keyframes rotate-appear {
+  from {
+    width: 0%;
+  }
+
+  to {
+    width: 100%;
+  }
+}
+
+.scroller {
+  scroll-snap-type: y mandatory;
+  height: 100vh;
+}
+
+.scroller section {
+  scroll-snap-align: start;
 }
