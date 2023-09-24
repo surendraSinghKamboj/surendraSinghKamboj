@@ -12,6 +12,7 @@ const page = () => {
   return (
     <>
       <Head>
+        <meta name="monetag" content="532f8fc8fe11763df80b74528b91551d">
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5780445115750860"
