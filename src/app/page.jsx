@@ -12,12 +12,7 @@ const page = () => {
   return (
     <>
       <Head>
-        <meta name="monetag" content="532f8fc8fe11763df80b74528b91551d"></meta>
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5780445115750860"
-          crossorigin="anonymous"
-        ></script>
+        <meta name="monetag" content="532f8fc8fe11763df80b74528b91551d" />
       </Head>
       <div className="scroller">
         <section className="h-screen w-full relative py-20">
