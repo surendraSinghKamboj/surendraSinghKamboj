@@ -29,7 +29,7 @@ const page = () => {
                 sequence={[
                   "I am Surendra Singh Kamboj.",
                   1000,
-                  "I'm a MERN stack web Devloper.",
+                  "I'm a MERN stack web Developer.",
                   1000,
                 ]}
                 speed={50}
