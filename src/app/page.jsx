@@ -4,7 +4,6 @@ import React from "react";
 import { heroBlob, trace } from "../assets/index.js";
 import Skills from "@/components/Skills.jsx";
 import { TypeAnimation } from "react-type-animation";
-import Adsense from "@/components/Adsense.jsx";
 import Head from "next/head.js";
 import About from "@/components/About.jsx";
 
@@ -30,7 +29,7 @@ const page = () => {
                 sequence={[
                   "I am Surendra Singh Kamboj.",
                   1000,
-                  "I'm a Full stack web Devloper.",
+                  "I'm a MERN stack web Devloper.",
                   1000,
                 ]}
                 speed={50}
@@ -39,7 +38,6 @@ const page = () => {
             </h1>
           </div>
         </section>
-        <Adsense />
 
         <Skills />
 
